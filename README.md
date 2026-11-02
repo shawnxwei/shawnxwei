@@ -1,6 +1,6 @@
 # Shawn Wei
 
-**Full-Stack AI Developer | AI Agents & LLM Applications**
+**AI Engineer | AI Agents & LLM Applications**
 
 Building AI-powered applications with a focus on intelligent agents, agentic workflows, and full-stack engineering.
 
@@ -9,21 +9,27 @@ Exploring how LLMs can be integrated into practical, reliable, and usable softwa
 ## Tech Stack
 
 **AI Agents & Orchestration**
+
 - LangChain · LangGraph · MCP
 
 **LLM Engineering**
+
 - RAG · OpenAI API · Claude API
 
 **Frontend**
+
 - TypeScript · React · Next.js
 
 **Backend**
+
 - Python · FastAPI
 
 **Databases & Caching**
+
 - PostgreSQL · MySQL · MongoDB · Redis
 
 **Infrastructure**
+
 - Docker
 
 ## Areas of Focus
@@ -32,6 +38,11 @@ Exploring how LLMs can be integrated into practical, reliable, and usable softwa
 - **LLM Applications:** RAG pipelines, model integration, and context management
 - **Full-Stack AI:** End-to-end development of AI-powered applications
 - **AI Engineering:** Connecting LLM capabilities with real-world software systems
+
+## Selected Projects
+
+- [StockAI](https://github.com/shawnxwei/StockAI) — An AI-powered stock analysis assistant built with React, FastAPI, and LLM workflows.
+- [zero-one-ims](https://github.com/shawnxwei/zero-one-ims) — A full-stack inventory management system for purchasing, sales, and warehouse operations.
 
 ## Philosophy
 
