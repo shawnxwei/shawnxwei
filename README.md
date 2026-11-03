@@ -2,46 +2,36 @@
 
 **AI Engineer | AI Agents & LLM Applications**
 
-Building AI-powered applications with a focus on intelligent agents, agentic workflows, and full-stack engineering.
+I build small systems that connect models, tools, and real users.
 
-Exploring how LLMs can be integrated into practical, reliable, and usable software.
+My current interests include agentic workflows, voice-first interfaces, and AI-powered developer tools.
 
 ## Tech Stack
 
-**AI Agents & Orchestration**
+**AI & Agents**
 
-- LangChain · LangGraph · MCP
+LangGraph · LangChain · MCP · RAG · OpenAI API
 
-**LLM Engineering**
+**Application Development**
 
-- RAG · OpenAI API · Claude API
+Python · FastAPI · TypeScript · React · Next.js
 
-**Frontend**
+**Data & Infrastructure**
 
-- TypeScript · React · Next.js
+PostgreSQL · MySQL · Redis · Docker
 
-**Backend**
+## Currently Exploring
 
-- Python · FastAPI
-
-**Databases & Caching**
-
-- PostgreSQL · MySQL · MongoDB · Redis
-
-**Infrastructure**
-
-- Docker
-
-## Areas of Focus
-
-- **AI Agents:** Tool integration, agentic workflows, and orchestration
-- **LLM Applications:** RAG pipelines, model integration, and context management
-- **Full-Stack AI:** End-to-end development of AI-powered applications
-- **AI Engineering:** Connecting LLM capabilities with real-world software systems
+- Tool-using agents and agentic workflows
+- Retrieval-Augmented Generation
+- Voice-first interfaces
+- AI-assisted analysis and automation
+- Reliable full-stack AI systems
 
 ## Selected Projects
 
-- [StockAI](https://github.com/shawnxwei/StockAI) — An AI-powered stock analysis assistant built with React, FastAPI, and LLM workflows.
+- [StockAI](https://github.com/shawnxwei/StockAI) — An AI-powered stock analysis assistant for the Chinese A-share market.
+- [Vocalendar](https://github.com/shawnxwei/Vocalendar) — A voice-first calendar assistant for natural language scheduling.
 - [zero-one-ims](https://github.com/shawnxwei/zero-one-ims) — A full-stack inventory management system for purchasing, sales, and warehouse operations.
 
 ## Philosophy
